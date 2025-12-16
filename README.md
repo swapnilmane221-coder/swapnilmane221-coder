@@ -1,8 +1,8 @@
 <h1 align="center">Hi there, I’m Swapnil Mane 👋</h1>  
 <p align="center">  
-🌱 ** Python/Django Developer ** | 💻 ** Predictive Analyst ** | 💡 ** Tech Explorer **
+🌱  💻  Python/Django Developer | 💻  Predictive Analyst | 💡  Tech Explorer 
   
----
+
 
 ### 👨‍💻 About Me:  
 - 🧠 Passionate about **Predictive Analytics** and building scalable **Django** web applications.  
